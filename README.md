@@ -1,5 +1,5 @@
 # NHD-0420DZW_Parallel_Example
-Program for writing to Newhaven Display's Standard Character OLED **NHD-0420DZW** Series. This code is written for the Arduino Uno. 
+Program for writing to Newhaven Display's Standard Character OLED **NHD-0420DZW** Series using 4-bit / 8-bit 6800 Parallel Interface. This code is written for the Arduino Uno. 
 
 Purchase a sample from our Product Pages linked below!
 
